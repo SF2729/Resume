@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(3, 70, 70, 0.164);
+}
+
+.hero__title img {
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    width: 900px;
+    height: 70%;
+}
+
+.hero__cont img {
+    display: flex;
+    margin: auto;
+
+}
+
+.hero__cont h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+.container {
+    width: 70%;
+    height: 60%;
+    margin: auto;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.nav-item a {
+    margin: 0 15px;
+}
+.container h2 {
+    color: coral;
+}
